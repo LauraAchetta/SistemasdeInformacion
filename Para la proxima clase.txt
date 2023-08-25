@@ -1,0 +1,4 @@
+1- traer tp con la información solicitada.
+2- leida la unidad trabajada en clase
+3- git instalado y cuenta en la nueva usando cualquier web que deseen como 
+ejemplo lo que vimos en clase.
